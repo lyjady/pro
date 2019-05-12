@@ -8,6 +8,7 @@ public class MyOrigin {
     public static void doGet() {
         System.out.println("MyOrigin.doGet");
         System.out.println("true = " + true);
+        System.out.println("service");
     }
 
     public static void doPost() {
