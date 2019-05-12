@@ -7,6 +7,7 @@ public class MyOrigin {
 
     public static void doGet() {
         System.out.println("MyOrigin.doGet");
+        System.out.println("true = " + true);
     }
 
     public static void doPost() {
